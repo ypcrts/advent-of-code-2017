@@ -1,0 +1,6 @@
+[package]
+name = "rustic"
+version = "0.1.0"
+authors = ["ypcrts <32625281+ypcrts@users.noreply.github.com>"]
+
+[dependencies]
